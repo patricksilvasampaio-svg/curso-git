@@ -1,0 +1,3 @@
+ o resumo da aula:
+ aprendemos a criar linha de codigo 'commit'
+ usada com github
