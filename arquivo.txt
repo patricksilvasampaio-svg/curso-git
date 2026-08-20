@@ -1,2 +1,1 @@
- o resumo da aula: aprendemos a criar linha de codigo como 'commit'
- para 
+resumo da aula: aprendemos a criar o codigo 'commit' no github
